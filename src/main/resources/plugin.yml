@@ -1,0 +1,7 @@
+name: ItemFilter
+version: ${project.version}
+main: com.Mitch.itemfilter.ItemFilter
+api-version: 1.13
+authors: [Mitch]
+description: Gui based item filter
+website: orbismc.org
